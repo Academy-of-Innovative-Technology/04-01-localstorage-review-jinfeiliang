@@ -12,7 +12,7 @@ let Update_Value = document.querySelector("#updateValue")
 let Delete_Key = document.querySelector("#deleteKey")
 let Delete_Output = document.querySelector("#deleteOutput")
 
-// SAVE
+// SAVE 
 document.querySelector(".save").onclick = function() {
     console.log("Save");
     console.log(Save_Key.value);
